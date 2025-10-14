@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+statsmodels
+plotly
+# Jupyter ecosystem
+ipython
+jupyter
+jupyterlab
+nbformat>=4.2
+traitlets
+jupyter_client
