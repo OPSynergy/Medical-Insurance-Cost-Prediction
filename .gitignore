@@ -1,8 +1,8 @@
-echo "venv/
+venv/
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 .ipynb_checkpoints
 .DS_Store
-.env" > .gitignore
+.env
