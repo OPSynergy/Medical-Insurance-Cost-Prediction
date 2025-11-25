@@ -12,3 +12,4 @@ jupyterlab
 nbformat>=4.2
 traitlets
 jupyter_client
+scikit-learn
